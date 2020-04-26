@@ -1,0 +1,27 @@
+.cc
+{
+    height: 350px;
+    margin-top: 30px;
+    border: 1px solid grey;
+}
+.container
+{
+    margin-top: 40px;
+}
+
+.col-lg-5,.col-xl-5, .col-md-12 {
+    -moz-hyphens:auto;
+    -ms-hyphens:auto;
+    -webkit-hyphens:auto;
+    hyphens:auto;
+    word-wrap:break-word;
+ }
+ input 
+ {
+     margin-top: 20px;
+ }
+ .row h3
+
+{
+    margin-top: 10px;
+}
